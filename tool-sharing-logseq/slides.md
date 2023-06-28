@@ -159,3 +159,12 @@ layout: end
 ---
 
 # 😳 My Logseq? 😳
+
+---
+layout: default
+---
+
+# Other handy tools
+
+1. [Slidev](https://sli.dev/)
+2. [Canvas](https://www.canva.com/)
